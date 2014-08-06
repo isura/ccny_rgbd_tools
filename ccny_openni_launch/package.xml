@@ -1,0 +1,23 @@
+<package>
+  <name>ccny_openni_launch</name>
+  <version>0.1.0</version>
+  <description>Helper launch files for OpenNI devices, including data processing, recording, and playback.</description>
+  <maintainer email="ivan.dryanovski@gmail.com">Ivan Dryanovski</maintainer>
+
+  <license>GPL</license>
+
+  <url type="website">http://ros.org/wiki/ccny_openni_launch</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <author>Ivan Dryanovski</author>
+
+  <!-- Dependencies which this package needs to build itself. -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Dependencies needed to compile this package. -->
+
+  <!-- Dependencies needed after this package is compiled. -->
+
+  <!-- Dependencies needed only for running tests. -->
+
+</package>
